@@ -1,5 +1,5 @@
 # Heroku Deploy Guide
-##  WhatsApp Botto: KAOI 🖤️<br>
+##  Chitoge 💙<br>
 ### Pre-requisite
  - 🌐️ Internet 🌐️️
 - 🧠️ Brain 🧠️
