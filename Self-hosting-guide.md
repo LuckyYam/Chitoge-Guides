@@ -1,4 +1,4 @@
-# WhatsApp-Botto-Void Self-hosting Guide
+# Chitoge Self-hosting Guide
 
 
 ## ⛵ Prerequisites
@@ -68,4 +68,4 @@ To authenticate scan the QR which shows up in the terminal or the link which is 
 Now you're on your own. Good Luck!
 
 ## Don't want to do the hassle of setting up on your own PC?
-[Set it up on Heroku](https://github.com/Synthesized-Infinity/Void-Guides/blob/main/Heroku-Deploy-Guide.md)
+[Set it up on Heroku](https://github.com/ShinNouzen/Chitoge-Guides/blob/main/Heroku-Deploy-Guide.md)
