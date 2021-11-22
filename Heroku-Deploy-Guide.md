@@ -19,6 +19,8 @@
     | SESSION | Any text you want but make sure to remember and don't share it |
     | MODS |  |
     | MONGO_URI | YOUR CLUSTER URI |
+    | TENOR_API_KEY | Read below to get the API Key |
+    | GENIUS_KEY | Read below to get the API Key |
  
 `CHAT_BOT_URL` A BOT WITH A BRAIN ROCKS! Click=> [Get ChatBot Url](https://github.com/ShinNouzen/Chitoge-Guides/blob/main/Chat_Bot_Url.md)<br>
 `CRON` Cron schedule for clearing all chats (Default: `"0 */6 * * *"`. Every 6 Hours). change this field to `null` if you don't want to schedule. [Learn More](https://www.npmjs.com/package/node-cron) <br>
@@ -26,7 +28,9 @@
 `PREFIX` The Prefix of the Bot <br>
 `SESSION` A string to keep track of your session. <br>
 `MODS` The phone numbers of users who you want to be the bot's Admins separated by a comma and must the numbers must be in the following format: `[cc][number]`. eg: `919744******`<br>
-`MONGO_URI` is the Connection URL to your DB ([Mongo-Atlas-Guide](https://github.com/ShinNouzen/Chitoge-Guides/blob/main/Mongo-Atlas-guide.md))<br> 
+`MONGO_URI` is the Connection URL to your DB ([Mongo-Atlas-Guide](https://github.com/ShinNouzen/Chitoge-Guides/blob/main/Mongo-Atlas-guide.md))<br>
+`TENOR_API` is the key for gif searches. Get ur apikey [here.](https://tenor.com/developer/keyregistration)
+`GENIUS_KEY` is key for search song lyrics. Get ur apikey [here.](https://genius.com/api-clients#)
 5. Wait for the building to finish, you should always keep an eye on log messages, you can find log messages in the Dashboard -> More -> View logs.<br>
 6. After it builds, click on the "View" or "Open App".<br>
 7. Authenticate By Providing Your SESSION_ID and a QR Code Will Show Up.<br>
